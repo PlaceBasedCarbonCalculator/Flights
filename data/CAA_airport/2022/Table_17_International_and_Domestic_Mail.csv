@@ -1,0 +1,28 @@
+﻿rundate,reporting_period,reporting_airport_group_name,reporting_airport_name,mail_scheduled_passenger_aircraft_foreign_EU,mail_scheduled_cargo_aircraft_foreign_EU,mail_charter_passenger_aircraft_foreign_EU,mail_charter_cargo_aircraft_foreign_EU,mail_scheduled_passenger_aircraft_foreign_non_EU,mail_scheduled_cargo_aircraft_foreign_non_EU,mail_charter_passenger_aircraft_foreign_non_EU,mail_charter_cargo_aircraft_foreign_non_EU,mail_scheduled_passenger_aircraft_UK,mail_scheduled_cargo_aircraft_UK,mail_charter_passenger_aircraft_UK,mail_charter_cargo_aircraft_UK
+3/20/2023 9:26:12 AM,2022,London Area Airports,GATWICK,2342.611,0,0.247,0,1000.544,0,1.162,0,0.644,0,0,0
+3/20/2023 9:26:12 AM,2022,London Area Airports,HEATHROW,5965.399,97.736,0,77.069,39178.066,1914.334,5.701,148.011,43.681,0,0,0
+3/20/2023 9:26:12 AM,2022,London Area Airports,LUTON,0,81.511,0,868.67,0,0,0,0,0,0,0,0
+3/20/2023 9:26:12 AM,2022,London Area Airports,STANSTED,0,298.393,0,8.43,0,258.373,0,0,0,0,0,12369.275
+3/20/2023 9:26:12 AM,2022,London Area Airports,SOUTHEND,0,107.813,0,0,0,0,0,0,0,0,0,0
+3/20/2023 9:26:12 AM,2022,Non UK Reporting Airports,ALDERNEY,0,0,0,0,0,0,0,0,77.248,0.773,0,0
+3/20/2023 9:26:12 AM,2022,Non UK Reporting Airports,GUERNSEY,0,0,0,0,0,0,0,0,78.06,0.894,0,2244.772
+3/20/2023 9:26:12 AM,2022,Non UK Reporting Airports,ISLE OF MAN,0,0,0,0,0,0,0,0,0.021,0,0,1506.8
+3/20/2023 9:26:12 AM,2022,Non UK Reporting Airports,JERSEY,0,0,0,0,0,0,0,0,3.213,1417.381,0,0
+3/20/2023 9:26:12 AM,2022,Other UK Airports,ABERDEEN,1.46,0,0,0,0.598,0,0,0,3.134,0,0,0
+3/20/2023 9:26:12 AM,2022,Other UK Airports,BELFAST INTERNATIONAL,1.274,77.056,0,0,0,0,0,0,0.07,11966.7,0,0
+3/20/2023 9:26:12 AM,2022,Other UK Airports,BENBECULA,0,0,0,0,0,0,0,0,0.449,0,1.37,230.784
+3/20/2023 9:26:12 AM,2022,Other UK Airports,BIRMINGHAM,0.122,1.4,0,0,124.372,0,0.005,0,0.001,0,0,0
+3/20/2023 9:26:12 AM,2022,Other UK Airports,EAST MIDLANDS INTERNATIONAL,0,731.203,0,43.186,0,319.086,0,0,0,19549.521,0,5.564
+3/20/2023 9:26:12 AM,2022,Other UK Airports,EDINBURGH,0.086,0,0,0,31.67,0,0,0,40.05,14606.55,0,1.912
+3/20/2023 9:26:12 AM,2022,Other UK Airports,EXETER,0,0,0,0,0,0,0,0,0,0,0,3119.505
+3/20/2023 9:26:12 AM,2022,Other UK Airports,GLASGOW,0.116,0,0,0,0.031,0,0,0,128.049,0.157,0,0
+3/20/2023 9:26:12 AM,2022,Other UK Airports,INVERNESS,0,0,0,0,0,0,0,0,3.744,0,3.013,2609.945
+3/20/2023 9:26:12 AM,2022,Other UK Airports,ISLAY,0,0,0,0,0,0,0,0,84.231,0.025,0,0
+3/20/2023 9:26:12 AM,2022,Other UK Airports,ISLES OF SCILLY (ST.MARYS),0,0,0,0,0,0,0,0,20.6,221.7,0,0
+3/20/2023 9:26:12 AM,2022,Other UK Airports,KIRKWALL,0.001,0,0,0,0,0,0,0,14.332,0.256,0,508.999
+3/20/2023 9:26:12 AM,2022,Other UK Airports,LANDS END (ST JUST),0,0,0,0,0,0,0,0,20,222.4,0,0
+3/20/2023 9:26:12 AM,2022,Other UK Airports,MANCHESTER,4.653,0,0.202,0,434.379,3.33,1.689,4.534,0.429,0,0,0
+3/20/2023 9:26:12 AM,2022,Other UK Airports,SUMBURGH,0,0,0,0,0,0,0.065,0,0.001,0,0,206.162
+3/20/2023 9:26:12 AM,2022,Other UK Airports,STORNOWAY,0,0,0,0,0,0,0,0,0.004,0,0,206.805
+3/20/2023 9:26:12 AM,2022,Other UK Airports,TIREE,0,0,0,0,0,0,0,0,44.25,0,0,0
+
